@@ -1,6 +1,3 @@
-# News App
-Project as a part of Android Basics Nanodegree at Udacity
-
 ### Project Overview
 
 The goal is to create a News Feed app which gives a user regularly-updated news from the internet 
